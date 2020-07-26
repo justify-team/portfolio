@@ -49,7 +49,7 @@
     },
     {
       "name": "Arunika",
-      "description": "Arunika is a web application that offers personal notes that can store your notes on the browser side, this web application has implemented PWA. So you can 'install' on your smartphone and open this web application without using the internet.",
+      "description": "Arunika is a web application that offers personal notes that can store your notes on the browser side, this web application has implemented PWA. So you can install on your smartphone and open this web application without using the internet.",
       "techstack": "HTML5, CSS3, Bootstrap, JavaScript",
       "images": [
         "https://res.cloudinary.com/justifyteam/image/upload/v1595731316/Portfolio%20Thumbnail/ARUNIKA/AR_pvykzk.png"

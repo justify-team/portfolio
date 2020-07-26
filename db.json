@@ -1,0 +1,113 @@
+{
+  "total_client": 0,
+  "portfolios": [
+    {
+      "name": "Kuundang",
+      "description": "Kuundang is an online invitation service website that allows wedding couples to send their wedding invitations online, this website has a simple invitation template and a luxurious impression, of course at an affordable price.",
+      "techstack": "HTML5, CSS3, Bootstrap, Javascript, Django",
+      "images": [
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731321/Portfolio%20Thumbnail/KUUNDANG/KUN2_olzfcj.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731321/Portfolio%20Thumbnail/KUUNDANG/KUN1_k0d4gq.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731320/Portfolio%20Thumbnail/KUUNDANG/KUN4_rlj0gx.png"
+      ],
+      "link": "",
+      "category": "web"
+    },
+    {
+      "name": "Kantin Buk Umi",
+      "description": "This website is a management information system from the sale.",
+      "techstack": "HTML5, CSS3, PHP",
+      "images": [
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731319/Portfolio%20Thumbnail/BUK%20UMI/EMAK1_psktkd.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731317/Portfolio%20Thumbnail/BUK%20UMI/EMAK_2_ey4bwb.png"
+      ],
+      "link": "",
+      "category": "web"
+    },
+    {
+      "name": "Desa Kecupak",
+      "description": "This website is a village profile website that is useful for introducing the village in a different way, this website provides some information about the village, ranging from infographics, village maps, activities carried out, etc.",
+      "techstack": "HTML5, CSS3, Bootstrap",
+      "images": [
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731318/Portfolio%20Thumbnail/KECUPAK%201/KECUP_1_poio6k.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731317/Portfolio%20Thumbnail/KECUPAK%201/KECUP_2_nw63y5.png"
+      ],
+      "link": "",
+      "category": "web"
+    },
+    {
+      "name": "MisterKos",
+      "description": "MisterKos is an application that makes it easy for immigrants, students, or people who need a place to stay to find a boarding house. This is a clone application from MamiKos and the final project in a bootcamp programming.",
+      "techstack": "React native, React Navigation, Redux, ExpressJS, MySQL",
+      "images": [
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731322/Portfolio%20Thumbnail/MISTER%20KOST/MK_kdxbh8.png"
+      ],
+      "link": "",
+      "category": "mobile"
+    },
+    {
+      "name": "Arunika",
+      "description": "Arunika is a web application that offers personal notes that can store your notes on the browser side, this web application has implemented PWA. So you can 'install' on your smartphone and open this web application without using the internet.",
+      "techstack": "HTML5, CSS3, Bootstrap, JavaScript",
+      "images": [
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731316/Portfolio%20Thumbnail/ARUNIKA/AR_pvykzk.png"
+      ],
+      "link": "",
+      "category": "web"
+    },
+    {
+      "name": "KedaiKito",
+      "description": "KedaiKito is an application that presents a menu list of a restaurant to facilitate customers in ordering food & drinks.",
+      "techstack": "React native, React Navigation, Redux, ExpressJS, MySQL",
+      "images": [
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731318/Portfolio%20Thumbnail/KEDAIKITO/1_zkj6eu.png"
+      ],
+      "link": "",
+      "category": "mobile"
+    },
+    {
+      "name": "Skyrid",
+      "description": "Skyrid is an e-commerce website located in selling various bags. By providing various types of modern bags that adjust different types and sexes.",
+      "techstack": "Mindmeister, Adobe xd, HTML5, CSS3, Bootstrap",
+      "images": [
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731324/Portfolio%20Thumbnail/SKYRID/SR1_bnpdfp.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731326/Portfolio%20Thumbnail/SKYRID/SR2_mmoroq.png"
+      ],
+      "link": "",
+      "category": "web"
+    },
+    {
+      "name": "Prentip",
+      "description": "Prentip is a service-based website that connects between the requester and the requester.",
+      "techstack": "HTML5, CSS3, Bootstrap",
+      "images": [
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731321/Portfolio%20Thumbnail/PRENTIP/PRENTIP_ughj6z.png"
+      ],
+      "link": "",
+      "category": "web"
+    },
+    {
+      "name": "RuangBaca",
+      "description": "RuangBaca is a web application that allows users to borrow books. This application is equipped with a web admin that allows admins to create, edit and delete data and confirm the return of books.",
+      "techstack": "Laravel, MySQL",
+      "images": [
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731323/Portfolio%20Thumbnail/RUANG%20BACA/RB1_jvfhro.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731323/Portfolio%20Thumbnail/RUANG%20BACA/RB2_i5qxlw.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731324/Portfolio%20Thumbnail/RUANG%20BACA/RB4_xcbjgk.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731324/Portfolio%20Thumbnail/RUANG%20BACA/RB3_kvezhx.png"
+      ],
+      "link": "https://bit.ly/m4t-ruangbaca",
+      "category": "web"
+    },
+    {
+      "name": "Pantau COVID",
+      "description": "Pantau COVID is a website that displays data on the development of COVID 19 in Indonesia. This website retrieves data through corona.coollabs.work.",
+      "techstack": "HTML5, CSS3, Bootstrap, JavaScript",
+      "images": [
+        "https://res.cloudinary.com/justifyteam/image/upload/v1595731320/Portfolio%20Thumbnail/PANCOPID/PAN_tbbcjj.png"
+      ],
+      "link": "https://pancovid19.netlify.app/",
+      "category": "web"
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 {
-  "total_client": 0,
+  "information": {
+    "total_client": 0
+  },
   "portfolios": [
     {
       "name": "Kuundang",

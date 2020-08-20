@@ -5,7 +5,7 @@
   "portfolios": [
     {
       "name": "Kuundang",
-      "description": "Kuundang is an online invitation service website that allows wedding couples to send their wedding invitations online, this website has a simple invitation template and a luxurious impression, of course at an affordable price.",
+      "description": "Kuundang adalah sebuah website layanan undangan online yang memperbolehkan pasangan pengantin untuk mengirimkan undangan pernikahannya secara online, website ini memiliki template undangan yang simpel dan berkesan mewah tentunya dengan harga yang terjangkau.",
       "techstack": "HTML5, CSS3, Bootstrap, Javascript, Django",
       "images": [
         "https://res.cloudinary.com/justifyteam/image/upload/v1597116110/thumbnail-small/KUUNDANG/KUN1_ib9gf4.png",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Kantin Buk Umi",
-      "description": "This website is a management information system from the sale.",
+      "description": "Website ini merupakan sistem informasi manajemen dari penjualan.",
       "techstack": "HTML5, CSS3, PHP",
       "images": [
         "https://res.cloudinary.com/justifyteam/image/upload/v1597116105/thumbnail-small/BUK%20UMI/EMAK_2_mxewho.png",
@@ -29,7 +29,7 @@
     },
     {
       "name": "Desa Kecupak",
-      "description": "This website is a village profile website that is useful for introducing the village in a different way, this website provides some information about the village, ranging from infographics, village maps, activities carried out, etc.",
+      "description": "Website ini merupakan website profil desa yang berguna untuk mengenalkan desa dengan cara yang berbeda, website ini memberikan beberapa informasi tentang desa, mulai dari infografik, peta desa, kegiatan yang dilakukan, dll.",
       "techstack": "HTML5, CSS3, Bootstrap",
       "images": [
         "https://res.cloudinary.com/justifyteam/image/upload/v1597116104/thumbnail-small/KECUPAK%201/KECUP_1_otv30g.png",
@@ -40,7 +40,7 @@
     },
     {
       "name": "MisterKos",
-      "description": "MisterKos is an application that makes it easy for immigrants, students, or people who need a place to stay to find a boarding house. This is a clone application from MamiKos and the final project in a bootcamp programming.",
+      "description": "MisterKos merupakan aplikasi yang memberikan kemudahan bagi para pendatang, pelajar, atau orang yang membutuhkan tempat tinggal untuk mencari kost. Ini adalah aplikasi clone dari MamiKos dan tugas akhir dalam pemrograman bootcamp.",
       "techstack": "React native, React Navigation, Redux, ExpressJS, MySQL",
       "images": [
         "https://res.cloudinary.com/justifyteam/image/upload/v1597116114/thumbnail-small/MISTER%20KOST/MK_qhhbyk.png"
@@ -50,7 +50,7 @@
     },
     {
       "name": "Arunika",
-      "description": "Arunika is a web application that offers personal notes that can store your notes on the browser side, this web application has implemented PWA. So you can install on your smartphone and open this web application without using the internet.",
+      "description": "Arunika adalah aplikasi web yang menawarkan catatan pribadi yang dapat menyimpan catatan Anda di sisi browser, aplikasi web ini telah menerapkan PWA. Jadi Anda bisa menginstal di smartphone Anda dan membuka aplikasi web ini tanpa menggunakan internet.",
       "techstack": "HTML5, CSS3, Bootstrap, JavaScript",
       "images": [
         "https://res.cloudinary.com/justifyteam/image/upload/v1597116104/thumbnail-small/ARUNIKA/AR_uihits.png"
@@ -60,7 +60,7 @@
     },
     {
       "name": "KedaiKito",
-      "description": "KedaiKito is an application that presents a menu list of a restaurant to facilitate customers in ordering food & drinks.",
+      "description": "KedaiKito merupakan aplikasi yang menyajikan daftar menu sebuah restoran untuk memudahkan pelanggan dalam memesan makanan & minuman.",
       "techstack": "React native, React Navigation, Redux, ExpressJS, MySQL",
       "images": [
         "https://res.cloudinary.com/justifyteam/image/upload/v1597116108/thumbnail-small/KEDAIKITO/1_dy1ts6.png"
@@ -70,7 +70,7 @@
     },
     {
       "name": "Skyrid",
-      "description": "Skyrid is an e-commerce website located in selling various bags. By providing various types of modern bags that adjust different types and sexes.",
+      "description": "Skyrid adalah situs e-commerce yang menjual berbagai tas. Dengan menyediakan berbagai jenis tas modern yang menyesuaikan dengan jenis dan jenis kelamin yang berbeda.",
       "techstack": "Mindmeister, Adobe xd, HTML5, CSS3, Bootstrap",
       "images": [
         "https://res.cloudinary.com/justifyteam/image/upload/v1597116118/thumbnail-small/SKYRID/SR1_q0l7tu.png",
@@ -81,7 +81,7 @@
     },
     {
       "name": "Prentip",
-      "description": "Prentip is a service-based website that connects between the requester and the requester.",
+      "description": "Prentip adalah situs web berbasis layanan yang menghubungkan antara pemohon dan pemohon.",
       "techstack": "HTML5, CSS3, Bootstrap",
       "images": [
         "https://res.cloudinary.com/justifyteam/image/upload/v1597116117/thumbnail-small/PRENTIP/PRENTIP_jucy5f.png"
@@ -91,7 +91,7 @@
     },
     {
       "name": "RuangBaca",
-      "description": "RuangBaca is a web application that allows users to borrow books. This application is equipped with a web admin that allows admins to create, edit and delete data and confirm the return of books.",
+      "description": "RuangBaca adalah aplikasi web yang memungkinkan pengguna untuk meminjam buku. Aplikasi ini dilengkapi dengan web admin yang memudahkan admin membuat, mengedit dan menghapus data serta melakukan konfirmasi pengembalian buku.",
       "techstack": "Laravel, MySQL",
       "images": [
         "https://res.cloudinary.com/justifyteam/image/upload/v1597116114/thumbnail-small/RUANG%20BACA/RB1_nhlkn1.png",
@@ -104,7 +104,7 @@
     },
     {
       "name": "Pantau COVID",
-      "description": "Pantau COVID is a website that displays data on the development of COVID 19 in Indonesia. This website retrieves data through corona.coollabs.work.",
+      "description": "Pantau COVID merupakan website yang menampilkan data perkembangan COVID 19 di Indonesia. Situs web ini mengambil data melalui corona.coollabs.work.",
       "techstack": "HTML5, CSS3, Bootstrap, JavaScript",
       "images": [
         "https://res.cloudinary.com/justifyteam/image/upload/v1597116122/thumbnail-small/PANCOPID/PAN_h74oph.png"

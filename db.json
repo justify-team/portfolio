@@ -4,6 +4,24 @@
   },
   "portfolios": [
     {
+      "name": "SIPEKAD",
+      "description": "SIPEKAD (Sistem Informasi Pemilihan Kepala Desa) merupakan sebuah sistem evoting untuk memudahkan dalam proses pemilihan kepala desa.",
+      "techstack": "HTML5, CSS3, Javascript, Bootstrap, Laravel, MySQL",
+      "images": [
+        "https://res.cloudinary.com/justifyteam/image/upload/v1599183108/thumbnail-small/SIPEKAD/SIPEKAD1_cgcx0e.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1599183106/thumbnail-small/SIPEKAD/SIPEKAD2_iaoub8.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1599183108/thumbnail-small/SIPEKAD/SIPEKAD3_e9hfyf.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1599183106/thumbnail-small/SIPEKAD/SIPEKAD4_blxnhl.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1599183106/thumbnail-small/SIPEKAD/SIPEKAD5_qwpqgj.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1599183107/thumbnail-small/SIPEKAD/SIPEKAD6_aqah6j.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1599183108/thumbnail-small/SIPEKAD/SIPEKAD7_kg62lc.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1599183108/thumbnail-small/SIPEKAD/SIPEKAD8_uoz8co.png",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1599183108/thumbnail-small/SIPEKAD/SIPEKAD9_su5jsd.png"
+      ],
+      "link": "https://youtu.be/7RHIB-vebEw",
+      "category": "web"
+    },
+    {
       "name": "Kuundang",
       "description": "Kuundang adalah sebuah website layanan undangan online yang memperbolehkan pasangan pengantin untuk mengirimkan undangan pernikahannya secara online, website ini memiliki template undangan yang simpel dan berkesan mewah tentunya dengan harga yang terjangkau.",
       "techstack": "HTML5, CSS3, Bootstrap, Javascript, Django",

@@ -8,15 +8,15 @@
       "description": "SIPEKAD (Sistem Informasi Pemilihan Kepala Desa) merupakan sebuah sistem evoting untuk memudahkan dalam proses pemilihan kepala desa.",
       "techstack": "HTML5, CSS3, Javascript, Bootstrap, Laravel, MySQL",
       "images": [
-        "https://res.cloudinary.com/justifyteam/image/upload/v1599183108/thumbnail-small/SIPEKAD/SIPEKAD1_cgcx0e.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1599183106/thumbnail-small/SIPEKAD/SIPEKAD2_iaoub8.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1599183108/thumbnail-small/SIPEKAD/SIPEKAD3_e9hfyf.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1599183106/thumbnail-small/SIPEKAD/SIPEKAD4_blxnhl.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1599183106/thumbnail-small/SIPEKAD/SIPEKAD5_qwpqgj.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1599183107/thumbnail-small/SIPEKAD/SIPEKAD6_aqah6j.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1599183108/thumbnail-small/SIPEKAD/SIPEKAD7_kg62lc.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1599183108/thumbnail-small/SIPEKAD/SIPEKAD8_uoz8co.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1599183108/thumbnail-small/SIPEKAD/SIPEKAD9_su5jsd.png"
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156493/webp/SIPEKAD/SIPEKAD1_uipw17.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156494/webp/SIPEKAD/SIPEKAD2_r1cdca.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156494/webp/SIPEKAD/SIPEKAD3_ar8jdb.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156494/webp/SIPEKAD/SIPEKAD4_g6vl2x.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156494/webp/SIPEKAD/SIPEKAD5_qbezxl.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156494/webp/SIPEKAD/SIPEKAD6_r6cd5w.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156495/webp/SIPEKAD/SIPEKAD7_iqeolt.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156495/webp/SIPEKAD/SIPEKAD8_p6h44e.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156495/webp/SIPEKAD/SIPEKAD9_ljnltg.webp"
       ],
       "link": "https://youtu.be/7RHIB-vebEw",
       "category": "web"
@@ -26,10 +26,10 @@
       "description": "Kuundang adalah sebuah website layanan undangan online yang memperbolehkan pasangan pengantin untuk mengirimkan undangan pernikahannya secara online, website ini memiliki template undangan yang simpel dan berkesan mewah tentunya dengan harga yang terjangkau.",
       "techstack": "HTML5, CSS3, Bootstrap, Javascript, Django",
       "images": [
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116110/thumbnail-small/KUUNDANG/KUN1_ib9gf4.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116109/thumbnail-small/KUUNDANG/KUN3_izgso7.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116111/thumbnail-small/KUUNDANG/KUN2_hhlezf.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116110/thumbnail-small/KUUNDANG/KUN4_c6l5ox.png"
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156489/webp/KUUNDANG/KUN1_scevmm.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156489/webp/KUUNDANG/KUN2_sjduhb.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156489/webp/KUUNDANG/KUN3_cdtvl6.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156490/webp/KUUNDANG/KUN4_bgmgef.webp"
       ],
       "link": "",
       "category": "web"
@@ -39,8 +39,8 @@
       "description": "Website ini merupakan sistem informasi manajemen dari penjualan.",
       "techstack": "HTML5, CSS3, PHP",
       "images": [
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116105/thumbnail-small/BUK%20UMI/EMAK_2_mxewho.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116104/thumbnail-small/BUK%20UMI/EMAK1_gucm8j.png"
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156488/webp/BUKUMI/BUKUMI1_n9jifx.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156488/webp/BUKUMI/BUKUMI2_j8pbcc.webp"
       ],
       "link": "",
       "category": "web"
@@ -50,8 +50,8 @@
       "description": "Website ini merupakan website profil desa yang berguna untuk mengenalkan desa dengan cara yang berbeda, website ini memberikan beberapa informasi tentang desa, mulai dari infografik, peta desa, kegiatan yang dilakukan, dll.",
       "techstack": "HTML5, CSS3, Bootstrap",
       "images": [
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116104/thumbnail-small/KECUPAK%201/KECUP_1_otv30g.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116104/thumbnail-small/KECUPAK%201/KECUP_2_waitzj.png"
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156488/webp/KECUPAK/KECUP1_r8lzjd.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156488/webp/KECUPAK/KECUP2_gzy003.webp"
       ],
       "link": "",
       "category": "web"
@@ -61,7 +61,7 @@
       "description": "MisterKos merupakan aplikasi yang memberikan kemudahan bagi para pendatang, pelajar, atau orang yang membutuhkan tempat tinggal untuk mencari kost. Ini adalah aplikasi clone dari MamiKos dan tugas akhir dalam pemrograman bootcamp.",
       "techstack": "React native, React Navigation, Redux, ExpressJS, MySQL",
       "images": [
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116114/thumbnail-small/MISTER%20KOST/MK_qhhbyk.png"
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156491/webp/MISTERKOST/MK1_fbl369.webp"
       ],
       "link": "",
       "category": "mobile"
@@ -71,7 +71,7 @@
       "description": "Arunika adalah aplikasi web yang menawarkan catatan pribadi yang dapat menyimpan catatan Anda di sisi browser, aplikasi web ini telah menerapkan PWA. Jadi Anda bisa menginstal di smartphone Anda dan membuka aplikasi web ini tanpa menggunakan internet.",
       "techstack": "HTML5, CSS3, Bootstrap, JavaScript",
       "images": [
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116104/thumbnail-small/ARUNIKA/AR_uihits.png"
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156488/webp/ARUNIKA/AR1_j5v0uc.webp"
       ],
       "link": "https://arunika.netlify.app/",
       "category": "web"
@@ -81,7 +81,7 @@
       "description": "KedaiKito merupakan aplikasi yang menyajikan daftar menu sebuah restoran untuk memudahkan pelanggan dalam memesan makanan & minuman.",
       "techstack": "React native, React Navigation, Redux, ExpressJS, MySQL",
       "images": [
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116108/thumbnail-small/KEDAIKITO/1_dy1ts6.png"
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156488/webp/KEDAIKITO/KEDAIKITO1_q0suge.webp"
       ],
       "link": "",
       "category": "mobile"
@@ -91,8 +91,8 @@
       "description": "Skyrid adalah situs e-commerce yang menjual berbagai tas. Dengan menyediakan berbagai jenis tas modern yang menyesuaikan dengan jenis dan jenis kelamin yang berbeda.",
       "techstack": "Mindmeister, Adobe xd, HTML5, CSS3, Bootstrap",
       "images": [
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116118/thumbnail-small/SKYRID/SR1_q0l7tu.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116119/thumbnail-small/SKYRID/SR2_tmpz4e.png"
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156495/webp/SKYRID/SR1_rj74ld.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156495/webp/SKYRID/SR2_nyr69k.webp"
       ],
       "link": "",
       "category": "web"
@@ -102,7 +102,7 @@
       "description": "Prentip adalah situs web berbasis layanan yang menghubungkan antara pemohon dan pemohon.",
       "techstack": "HTML5, CSS3, Bootstrap",
       "images": [
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116117/thumbnail-small/PRENTIP/PRENTIP_jucy5f.png"
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156493/webp/PRENTIP/PRENTIP1_uptyq5.webp"
       ],
       "link": "https://prentip.site/",
       "category": "web"
@@ -112,10 +112,10 @@
       "description": "RuangBaca adalah aplikasi web yang memungkinkan pengguna untuk meminjam buku. Aplikasi ini dilengkapi dengan web admin yang memudahkan admin membuat, mengedit dan menghapus data serta melakukan konfirmasi pengembalian buku.",
       "techstack": "Laravel, MySQL",
       "images": [
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116114/thumbnail-small/RUANG%20BACA/RB1_nhlkn1.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116114/thumbnail-small/RUANG%20BACA/RB1_nhlkn1.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116115/thumbnail-small/RUANG%20BACA/RB4_g2uu7w.png",
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116115/thumbnail-small/RUANG%20BACA/RB3_s4wzxh.png"
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156492/webp/RUANGBACA/RB1_vrvflc.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156492/webp/RUANGBACA/RB2_rgtqih.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156493/webp/RUANGBACA/RB3_lb7h1x.webp",
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156494/webp/RUANGBACA/RB4_m48vuf.webp"
       ],
       "link": "https://bit.ly/m4t-ruangbaca",
       "category": "web"
@@ -125,7 +125,7 @@
       "description": "Pantau COVID merupakan website yang menampilkan data perkembangan COVID 19 di Indonesia. Situs web ini mengambil data melalui corona.coollabs.work.",
       "techstack": "HTML5, CSS3, Bootstrap, JavaScript",
       "images": [
-        "https://res.cloudinary.com/justifyteam/image/upload/v1597116122/thumbnail-small/PANCOPID/PAN_h74oph.png"
+        "https://res.cloudinary.com/justifyteam/image/upload/v1600156492/webp/PANCOVID/PANCOVID1_kkjlug.webp"
       ],
       "link": "https://pancovid19.netlify.app/",
       "category": "web"
